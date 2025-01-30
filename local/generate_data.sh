@@ -23,3 +23,4 @@ echo "Starting Data Generation"
 ./python.sh $SCRIPT_PATH --height 544 --width 960 --num_frames 1000 --distractors None --data_dir $OUTPUT_NO_DISTRACTORS
 
 
+
